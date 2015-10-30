@@ -1,0 +1,2 @@
+cluster.name: 'anatasama'
+bootstrap.mlockall: true

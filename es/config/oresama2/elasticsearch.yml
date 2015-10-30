@@ -1,0 +1,2 @@
+cluster.name: 'oresama'
+bootstrap.mlockall: true
