@@ -6,7 +6,7 @@ sh -c "echo deb https://get.docker.com/ubuntu docker main > /etc/apt/sources.lis
 
 apt-get update
 apt-get upgrade
-apt-get install -y apt-transport-https git bridge-utils arping
+apt-get install -y apt-transport-https git bridge-utils arping jq
 apt-get install -y lxc-docker
 
 gpasswd -a vagrant docker
