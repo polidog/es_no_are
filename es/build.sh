@@ -1,4 +1,3 @@
 #!/bin/sh
 
-docker build -t oresama_es:latest /vagrant/es/
-
+docker build -t oresama_es:latest ./
